@@ -1,0 +1,6 @@
+# CM build target list
+# <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
+# Absence of a period indicates Daily (the default)
+
+########################
+omni_eagle_lte-userdebug android-4.4 D

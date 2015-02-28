@@ -1,0 +1,3 @@
+s|omni_msm8226-common-userdebug@samsung|omni_eagle_lte-userdebug|g
+## Don't remove this line
+s|@.*||g
